@@ -1,4 +1,4 @@
-<h1>🌳 Projeto: Árvore Binária de Busca (BST) – 7 Níveis</h1>
+<h1>🌳Árvore Binária de Busca (BST) – 7 Níveis</h1>
 
 <p>Este projeto implementa uma <strong>Árvore Binária de Busca (BST)</strong> em <strong>Java</strong>, incluindo operações de inserção, percursos, cálculo de altura, contagem de nós/folhas e impressão por níveis (BFS).<br>
 Foram criados três cenários de inserção (A, B e C) para analisar o comportamento estrutural da árvore.</p>
